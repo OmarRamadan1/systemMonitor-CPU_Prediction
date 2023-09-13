@@ -1,4 +1,4 @@
-Sure, here's a well-formatted README for your project:
+
 
 # System Monitor and CPU Usage Prediction
 
