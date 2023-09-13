@@ -2,7 +2,7 @@
 System Monitoring and CPU Usage Prediction
 This project consists of two scripts that monitor the system’s CPU usage, memory usage, disk usage, and host IP address and predict future CPU usage.
 
-Dependencies
+##Dependencies
 The scripts require the following Python libraries:
 
 psutil
