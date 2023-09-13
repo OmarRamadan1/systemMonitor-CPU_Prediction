@@ -14,7 +14,7 @@ You can install these using pip:
 
 pip install psutil datetime math pandas sklearn
 
-Usage
+#Usage
 Run the system monitoring script in your terminal.
 You will be prompted to enter the following parameters:
 Memory max usage: The maximum memory usage in percent. If the system’s memory usage reaches this threshold, a warning will be logged.
@@ -28,5 +28,5 @@ The output log file contains lines in the following format:
 
 <timestamp>, <average CPU usage>, <number of logical CPUs used>, <memory usage in GB>, <disk usage in GB>, <host IP address>
 
-Note
+#Note
 The scripts calculate average CPU usage over the specified refresh time interval and memory and disk usage are reported in gigabytes (GB). Please ensure that you have the necessary permissions to read system parameters and write files in your environment before running these scripts.
